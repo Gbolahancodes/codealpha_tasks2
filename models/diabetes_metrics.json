@@ -1,0 +1,33 @@
+{
+  "best_model": "SVM",
+  "all_results": {
+    "Logistic Regression": {
+      "accuracy": 0.7143,
+      "precision": 0.6087,
+      "recall": 0.5185,
+      "f1": 0.56,
+      "roc_auc": 0.823
+    },
+    "SVM": {
+      "accuracy": 0.7532,
+      "precision": 0.66,
+      "recall": 0.6111,
+      "f1": 0.6346,
+      "roc_auc": 0.7924
+    },
+    "Random Forest": {
+      "accuracy": 0.7532,
+      "precision": 0.66,
+      "recall": 0.6111,
+      "f1": 0.6346,
+      "roc_auc": 0.8121
+    },
+    "XGBoost": {
+      "accuracy": 0.7273,
+      "precision": 0.62,
+      "recall": 0.5741,
+      "f1": 0.5962,
+      "roc_auc": 0.8006
+    }
+  }
+}
